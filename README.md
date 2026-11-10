@@ -1,5 +1,3 @@
-# TP5 - Simulación
-
 ## Descripción
 Trabajo práctico de la materia **Simulación**, cuyo objetivo es modelar y analizar el funcionamiento de un sistema de atención de trámites mediante simulación de eventos discretos.
 
